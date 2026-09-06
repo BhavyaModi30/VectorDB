@@ -1,5 +1,11 @@
-#include <bits/stdc++.h>
-
+#include <any>
+#include <cstdint>
+#include <fstream>
+#include <iostream>
+#include <stdexcept>
+#include <string>
+#include <unordered_map>
+#include <vector>
 
 struct Metadata {
     std::unordered_map<std::string, std::any> data;
