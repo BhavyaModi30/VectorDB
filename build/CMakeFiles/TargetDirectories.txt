@@ -1,3 +1,0 @@
-/mnt/d/Vector_DB/VectorDB/build/CMakeFiles/main.dir
-/mnt/d/Vector_DB/VectorDB/build/CMakeFiles/edit_cache.dir
-/mnt/d/Vector_DB/VectorDB/build/CMakeFiles/rebuild_cache.dir
